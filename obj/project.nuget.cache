@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqp7MuMxKdIEDyhAzTLfIrjEIrZX6z2cNLKgqRWpq9V0vhCI6aADeTJK/J3WUAQ1/IXuJJaA6xPNVCqZ3iXPoQ==",
+  "success": true,
+  "projectFilePath": "C:\\DEC\\Session_5\\Projet_integrateur_1\\Patrons de conception\\SystemeFormeGeometrique\\SystemFormeGeometrique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francis PAYAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

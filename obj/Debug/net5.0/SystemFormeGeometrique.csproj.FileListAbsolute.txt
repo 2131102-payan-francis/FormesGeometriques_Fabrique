@@ -1,0 +1,15 @@
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.exe
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.deps.json
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.runtimeconfig.json
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.runtimeconfig.dev.json
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.dll
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\bin\Debug\net5.0\SystemFormeGeometrique.pdb
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.AssemblyInfoInputs.cache
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.AssemblyInfo.cs
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.csproj.CoreCompileInputs.cache
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.dll
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\refint\SystemFormeGeometrique.dll
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.pdb
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\SystemFormeGeometrique.genruntimeconfig.cache
+C:\DEC\Session_5\Projet_integrateur_1\Patrons de conception\SystemeFormeGeometrique\obj\Debug\net5.0\ref\SystemFormeGeometrique.dll
